@@ -11,4 +11,6 @@ comments: false
 
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3nQppwP8UtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
